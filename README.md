@@ -13,4 +13,4 @@ B.A., Finance  Colorado Mesa University (May 2018)
 
 
 ### Projects
-
+Determination of US Airline Cancellations.html
