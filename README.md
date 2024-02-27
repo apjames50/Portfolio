@@ -13,4 +13,6 @@ B.A., Finance  Colorado Mesa University (May 2018)
 
 
 ### Projects
-Determination of US Airline Cancellations.html
+[Determination of US Airline Cancellations](https://nbviewer.org/github/apjames50/Determination-of-US-Airline-Cancellations/blob/main/Determination%20of%20US%20Airline%20Cancellations.html)
+
+[A Data Driven Exploration of Adidas Sales](https://public.tableau.com/authoring/AdidasCapstone/Story1#1)
