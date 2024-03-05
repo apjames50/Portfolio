@@ -32,7 +32,7 @@ Springboard Data Analytics Fellowship 2023\n\n
 ### Experience\n\n
 Springboard Data Analytics						 	     	          			          2023\n
 Fellowship\n
--Completed an intensive, 6-month course applying analytics skills to real-world business problems\n
+-Completed an intensive, 6-month course applying analytics skills to real-world business problems'\n'
 -Work through 900+ hours of hands-on coursework, with 1:1 expert mentor oversight\n
 -Extensively used Excel, SQL, Tableau, & Python to solve complex business problems\n
 -Refined critical thinking using techniques such as the HDEIP Framework, and Value Driver Trees\n
