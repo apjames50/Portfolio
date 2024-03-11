@@ -2,8 +2,8 @@
 
 
 ### Technical Skills
-LANGUAGES: Python (Pandas, Scikit-Learn, Numpy), SQL
-DATA COLLECTION: CSV, Web-Scraping
+  LANGUAGES: Python (Pandas, Scikit-Learn, Numpy), SQL
+  DATA COLLECTION: CSV, Web-Scraping
 DATA VISUALIZATION: MatplotLib, Seaborn, Tableau, Power BI
 MACHINE LEARNING: Linear / Logistic Regression, Classification, Random Forest
 
