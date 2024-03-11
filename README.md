@@ -44,7 +44,7 @@ Assistant Manager
 - Digitized the business by transitioning processes online, resulting in a 200% increase in efficiency.
 
 ## EDUCATION & CERTIFICATIONS
-- Colorado Mesa University B.A., Finance, Grand Junction, CO
+- Colorado Mesa University B.A., _Finance_, Grand Junction, CO
 - Google Data Analytics Certificate (2023)
 - Springboard Data Analytics Fellowship (2023)
 
