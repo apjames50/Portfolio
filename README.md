@@ -1,3 +1,4 @@
+# Data Analyst
 ## PROJECTS
 
 ### [Determination of US Airline Cancellations](https://nbviewer.org/github/apjames50/Determination-of-US-Airline-Cancellations/blob/main/Determination%20of%20US%20Airline%20Cancellations.html) (2023)
@@ -20,6 +21,11 @@ DATA COLLECTION: CSV, Web-Scraping
 DATA VISUALIZATION: MatplotLib, Seaborn, Tableau, Power BI
 
 MACHINE LEARNING: Linear / Logistic Regression, Classification, Random Forest
+
+## EDUCATION & CERTIFICATIONS
+- Colorado Mesa University B.A., _Finance_, Grand Junction, CO
+- Google Data Analytics Certificate (2023)
+- Springboard Data Analytics Fellowship (2023)
 
 ## EXPERIENCE
 ### Springboard Data Analytics (2023)
@@ -46,10 +52,6 @@ Assistant Manager
 - Applied analytics to organizational issues, developed business strategy to help grow the org 3x in 3 years
 - Digitized the business by transitioning processes online, resulting in a 200% increase in efficiency.
 
-## EDUCATION & CERTIFICATIONS
-- Colorado Mesa University B.A., _Finance_, Grand Junction, CO
-- Google Data Analytics Certificate (2023)
-- Springboard Data Analytics Fellowship (2023)
 
 ## ATHLETICS & MUSIC
 - Proudly represented the USA at the World University Games: 2019
