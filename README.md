@@ -14,11 +14,11 @@ Springboard Data Analytics Fellowship 2023\n\n
 
 ### Projects
 [Determination of US Airline Cancellations](https://nbviewer.org/github/apjames50/Determination-of-US-Airline-Cancellations/blob/main/Determination%20of%20US%20Airline%20Cancellations.html)\n
--Spent time working with Python Tools including Numpy, Pandas, Seaborn, Matplotlib, Statsmodels, Scikit-learn\n
--Uploaded and processed 7 billion data points from US airline traffic, used Pandas to predict cancellations\n
--Leveraged ETL and ELT manipulation, applied data transformation tools via encoding for arithmetic operations\n
--Utilized Python libraries such as Numpy, Scikit-learn to perform multivariate and logistic regressions\n
--Created visually appealing plots in Matplotlib to communicate insights and trends in US airline traffic\n\n
+  - Spent time working with Python Tools including Numpy, Pandas, Seaborn, Matplotlib, Statsmodels, Scikit-learn\n
+  - Uploaded and processed 7 billion data points from US airline traffic, used Pandas to predict cancellations\n
+  - Leveraged ETL and ELT manipulation, applied data transformation tools via encoding for arithmetic operations\n
+- Utilized Python libraries such as Numpy, Scikit-learn to perform multivariate and logistic regressions\n
+- Created visually appealing plots in Matplotlib to communicate insights and trends in US airline traffic\n\n
 
 
 [A Data Driven Exploration of Adidas Sales](https://public.tableau.com/app/profile/andrew.james6164/viz/AdidasCapstone/Story1)\n
