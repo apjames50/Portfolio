@@ -13,10 +13,10 @@
     - Composed an executive summary using Tableau to visually present insights gleaned from SQL analysis
 
 ## SKILLS
-- LANGUAGES: Python (Pandas, Scikit-Learn, Numpy), SQL
-- DATA COLLECTION: CSV, Web-Scraping
-- DATA VISUALIZATION: MatplotLib, Seaborn, Tableau, Power BI
-- MACHINE LEARNING: Linear / Logistic Regression, Classification, Random Forest
+LANGUAGES: Python (Pandas, Scikit-Learn, Numpy), SQL
+DATA COLLECTION: CSV, Web-Scraping
+DATA VISUALIZATION: MatplotLib, Seaborn, Tableau, Power BI
+MACHINE LEARNING: Linear / Logistic Regression, Classification, Random Forest
 
 ## EXPERIENCE
 ### Springboard Data Analytics (2023)
