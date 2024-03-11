@@ -7,7 +7,7 @@ DATA COLLECTION: CSV, Web-Scraping
 DATA VISUALIZATION: MatplotLib, Seaborn, Tableau, Power BI
 MACHINE LEARNING: Linear / Logistic Regression, Classification, Random Forest
 
-###EDUCATION & CERTIFICATIONS
+### EDUCATION & CERTIFICATIONS
 B.A., _Finance_  Colorado Mesa University May 2018
 
 Google Data Analytics Certificate 2023
