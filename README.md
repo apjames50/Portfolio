@@ -34,19 +34,19 @@ Springboard Data Analytics Fellowship (2023)
 - Extensively used Excel, SQL, Tableau, & Python to solve complex multi-million dollar business problems
 - Contributed to a number of real-world projects, invested hundreds of hours learning new tools and frameworks, brushing up on statistics, and becoming comfortable with the data tech stack
 
-### USA Olympic Training Center - Park City, UT (2019 - 2022)
+USA Olympic Training Center - Park City, UT (2019 - 2022)
 Biathlon Instructor & Shooting Range Manager
 - Worked with the C-Suite and Directors at major corporate sponsors including: Delta, Ford, Disney, Vivint
 - Managed 11 employees and oversaw the instruction of 8,000 shooters, safely firing 250,000+ rounds a year
 - Built the first USA Biathlon Masters program to accelerate athlete development, 10x program size in 2 years
 
-### Crested Butte Nordic Ski Center - Crested Butte, CO (2018 - 2019)
+Crested Butte Nordic Ski Center - Crested Butte, CO (2018 - 2019)
 Lead Ski Instructor
 - Coached, trained, and corralled 60+ elementary age children teaching skiing + developing positive habits
 - Connected with elite athletes and motivated them to persevere through difficult conditions and workouts
 - Helped oversee annual Alley Loop Ski Race, managing 300+ racers, 3,000 fans, and a $155,000 budget
 
-### Four Winds Coffee Shop - Grand Junction, CO (2014 - 2017)
+Four Winds Coffee Shop - Grand Junction, CO (2014 - 2017)
 Assistant Manager
 - Oversaw operations at a non-profit coffee shop and community center, managed staff of 10+ part-time baristas
 - Applied analytics to organizational issues, developed business strategy to help grow the org 3x in 3 years
