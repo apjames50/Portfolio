@@ -28,6 +28,7 @@ Determination of US Airline Cancellations 2023
 
 ● Prepared visually appealing plots in Matplotlib to communicate insights and trends in US airline traffic
 
+
 A Data Driven Exploration of Adidas Sales 2023
 
 ● SQL Tools: Nested Queries, Join Operations, Aggregation, Filtering
@@ -52,7 +53,8 @@ __Springboard Data Analytics__
 brushing up on statistics, and becoming comfortable with the data tech stack
 
 
-__USA Olympic Training Center__ - Park City, UT 2019 - 2022 Biathlon Instructor & Shooting Range Manager
+__USA Olympic Training Center__         - Park City, UT 2019 - 2022 
+Biathlon Instructor & Shooting Range Manager
 
 ● Worked with the C-Suite and Directors at major corporate sponsors including: Delta, Ford, Disney, Vivint
 
@@ -61,7 +63,8 @@ __USA Olympic Training Center__ - Park City, UT 2019 - 2022 Biathlon Instructor 
 ● Built the first USA Biathlon Masters program to accelerate athlete development, 10x program size in 2 years
   
 
-__Crested Butte Nordic Ski Center__ - Crested Butte, CO 2018 - 2019 Lead Ski Instructor
+__Crested Butte Nordic Ski Center__                   - Crested Butte, CO 2018 - 2019
+Lead Ski Instructor
 
 ● Coached, trained, and corralled 60+ elementary age children teaching skiing + developing positive habits
 
@@ -70,7 +73,8 @@ __Crested Butte Nordic Ski Center__ - Crested Butte, CO 2018 - 2019 Lead Ski Ins
 ● Helped oversee annual Alley Loop Ski Race, managing 300+ racers, 3,000 fans, and a $155,000 budget
 
 
-__Four Winds Coffee Shop__ - Grand Junction, CO 2014 - 2017 Assistant Manager
+__Four Winds Coffee Shop__                               - Grand Junction, CO 2014 - 2017 
+Assistant Manager
 
 ● Oversaw operations at a non-profit coffee shop and community center, managed staff of 10+ part-time baristas
 
