@@ -1,13 +1,13 @@
 # Data Analyst
 ## PROJECTS
 
-### [Determination of US Airline Cancellations](https://nbviewer.org/github/apjames50/Determination-of-US-Airline-Cancellations/blob/main/Determination%20of%20US%20Airline%20Cancellations.html) (2023)
+ [Determination of US Airline Cancellations](https://nbviewer.org/github/apjames50/Determination-of-US-Airline-Cancellations/blob/main/Determination%20of%20US%20Airline%20Cancellations.html) (2023)
 - Spent time working with Python Tools including Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn
 - Uploaded and processed 7 billion data points from US airline traffic, used Pandas to predict cancellations
 - Leveraged ETL and ELT manipulation, applied data transformation tools via encoding for arithmetic operations
 - Prepared visually appealing plots in Matplotlib to communicate insights and trends in US airline traffic
 
-### [A Data Driven Exploration of Adidas Sales](https://public.tableau.com/app/profile/andrew.james6164/viz/AdidasCapstone/Story1) (2023)
+ [A Data Driven Exploration of Adidas Sales](https://public.tableau.com/app/profile/andrew.james6164/viz/AdidasCapstone/Story1) (2023)
 - SQL Tools: Nested Queries, Join Operations, Aggregation, Filtering
 - Employed SQL to analyze Adidas sales data and develop a strategic plan for future sales initiatives
 - Identified missing data and implemented an appropriate imputation strategy on thousands of records
