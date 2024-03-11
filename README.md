@@ -28,7 +28,7 @@ MACHINE LEARNING: Linear / Logistic Regression, Classification, Random Forest
 - Springboard Data Analytics Fellowship (2023)
 
 ## EXPERIENCE
-### Springboard Data Analytics (2023)
+Springboard Data Analytics Fellowship (2023)
 - Completed an intensive, 6-month course applying analytics skills to real-world business problems
 - Work through 900+ hours of hands-on coursework, with 1:1 expert mentor oversight
 - Extensively used Excel, SQL, Tableau, & Python to solve complex multi-million dollar business problems
